@@ -1,0 +1,6 @@
+{
+  "name": "Workplace Policy Advisor",
+  "description": "Grounded, sourced, validated & tested AI agent for organizational policies, expense claims, IT procurement, and information security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
